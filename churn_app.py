@@ -9,7 +9,7 @@ model = joblib.load('model_pipeline_full.pkl')
 expected_features = model.feature_names_in_
 
 def main():
-    image = Image.open('churn.png')
+    image = Image.open('/image/churn.png')
     st.image(image, use_column_width=True)
     addselectbox = st.sidebar.selectbox("How would like to predict ?", ("Online", "Batch"))
     
