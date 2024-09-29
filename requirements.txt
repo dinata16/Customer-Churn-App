@@ -2,3 +2,4 @@ streamlit == 1.38.0
 joblib == 1.4.2
 pandas == 2.1.4
 pillow
+imblearn == 0.12.3
