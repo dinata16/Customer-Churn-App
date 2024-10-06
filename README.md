@@ -1,5 +1,5 @@
 # Unleashing the Power of Predictive Analytics: The Customer Churn Prediction App
-
+![preview app](https://github.com/user-attachments/assets/b3941290-3229-43e9-aede-449ad5b30008)
 ## Introduction
 
 In today's competitive market, retaining customers is more important than ever. The Customer Churn Prediction App empowers businesses to predict which customers are likely to leave, allowing them to take proactive measures to retain them. Built with the simplicity and interactivity of Streamlit, this app leverages machine learning to make accurate predictions based on the [Telco Customer Churn Dataset](https://www.kaggle.com/c/customer-churn-prediction-2020/overview).
