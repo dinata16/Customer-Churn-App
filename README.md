@@ -51,7 +51,6 @@ You can simply hit the "Predict" button. The app will display result of predicti
 ## Features of the App
 - User-Friendly Interface: An intuitive design makes navigating the app a breeze.
 - Real-Time Predictions: Receive instant results once the data is uploaded or you can input manually.
-- Data Visualization: Key statistics and insights are visualized for better understanding.
 
 ## The Model Behind the Magic
 Our predictive model is built using Random Forest, a robust method for binary classification tasks. Trained on the Telco Customer Churn dataset, the model analyzes factors such as state, total charge, total minutes to predict churn.
