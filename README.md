@@ -6,7 +6,7 @@ In today's competitive market, retaining customers is more important than ever. 
 
 ## Project Overview
 
-This project involves the development of a predictive model to foresee customer churn. Utilizing logistic regression, the model analyzes key features from the dataset to deliver accurate predictions. The project comprises:
+This project involves the development of a predictive model to foresee customer churn. Utilizing Random Forest, the model analyzes key features from the dataset to deliver accurate predictions. The project comprises:
 
 - **churn_app.py**: The main file driving the Streamlit application.
 - **model_pipeline_full.pkl**: The pre-trained machine learning model.
@@ -41,14 +41,14 @@ You should now see the app running at http://localhost:8501.
 
 ## Using the App
 Upload Your Data
-To get started, upload your dataset by clicking on the "Browse files" button. Ensure your file follows the format of the provided test.csv.
+To get started, upload your dataset by clicking on the "Browse files" button. Ensure your file follows the format of the provided Data Test.csv.
 
 ## Making Predictions
 With your data uploaded, simply hit the "Predict" button. The app will display a table of predictions indicating the likelihood of each customer churning.
 
 ## Features of the App
 - User-Friendly Interface: An intuitive design makes navigating the app a breeze.
-- Real-Time Predictions: Receive instant results once the data is uploaded.
+- Real-Time Predictions: Receive instant results once the data is uploaded or you can input manually.
 - Data Visualization: Key statistics and insights are visualized for better understanding.
 
 ## The Model Behind the Magic
