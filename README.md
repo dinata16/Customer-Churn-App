@@ -40,11 +40,13 @@ streamlit run churn_app.py
 You should now see the app running at http://localhost:8501.
 
 ## Using the App
-Upload Your Data
+- Online:
+You can input the requested information according to this app manually
+- Batch File:
 To get started, upload your dataset by clicking on the "Browse files" button. Ensure your file follows the format of the provided Data Test.csv.
 
 ## Making Predictions
-With your data uploaded, simply hit the "Predict" button. The app will display a table of predictions indicating the likelihood of each customer churning.
+You can simply hit the "Predict" button. The app will display result of predictions indicating the likelihood of each customer churning.
 
 ## Features of the App
 - User-Friendly Interface: An intuitive design makes navigating the app a breeze.
