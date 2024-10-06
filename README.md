@@ -65,4 +65,4 @@ We welcome contributions! If you have suggestions or improvements, fork the repo
 ## License
 This project is open-source and licensed under the MIT License. Check the LICENSE file for more information.
 
-Thank you for exploring the Customer Churn Prediction App. Happy Predicting!
+Thank you for exploring the [Customer Churn Prediction App](https://churncustomer.streamlit.app). Happy Predicting!
